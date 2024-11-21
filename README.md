@@ -27,5 +27,17 @@ Analyze and visualize insights from your WhatsApp chat data with this Python-bas
 ## Installation 
 ### Prerequisites  
 - Python 3.7.9 or higher ( preferably a higher version of 3.7 )  
-- Libraries: pandas, matplotlib, seaborn, nltk, scikit-learn, wordcloud, emoji   
+- Libraries: pandas, matplotlib, seaborn, nltk, scikit-learn, wordcloud, emoji
+
+## Future Scope
+- **Advanced Sentiment Analysis**:
+    Incorporate deep learning models for detecting a wider range of emotions like anger, joy, or sadness.
+- **Multi-language Support**:
+    Extend analysis capabilities to support chats in multiple languages.
+- **Chat Comparison**:
+    Enable comparison of multiple chats to analyze differences in activity, mood, and patterns.
+- **Spam Detection**:
+    Filter out spam messages or identify low-quality content in group chats.
+- **Media Analysis**
+
 
